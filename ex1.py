@@ -12,7 +12,7 @@ with open ("Arthur Vinicius Santos Silva - ex03.c", "r") as file:
             if letter in alfabeto:
                 alfabeto[letter] += 1
             else:
-                alfabeto[letter] = 0
+                alfabeto[letter] = 1
 
 tamanho_do_arquivo = str(os.stat("Arthur Vinicius Santos Silva - ex03.c").st_size)
 print(f"TAMANHO DO ARQUIVO EM BYTES: {tamanho_do_arquivo}")
