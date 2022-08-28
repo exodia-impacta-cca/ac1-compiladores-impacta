@@ -19,6 +19,6 @@ print(f"TAMANHO DO ARQUIVO EM BYTES: {tamanho_do_arquivo}")
 print("NÚMERO DE LINHAS DO ARQUIVO: " + str(contador_de_linhas))
 
 alfabeto = dict(sorted(alfabeto.items(), key=lambda item: item[1]))
-
+# print(alfabeto)  
 for value in alfabeto:
     print(f'{repr(value)}: {alfabeto[value]}')
