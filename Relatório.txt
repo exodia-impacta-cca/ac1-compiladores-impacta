@@ -2,16 +2,16 @@ Relatório de realização da AC1 - Compiladores
 
 Exercício 1
 
-Estruturamos os seguintes passos para a resolução do exercício:
-Ler o arquivo
-Iterar por linhas e caracteres
-Realizar a contagem da quantidade de caracteres e guardar para impressão
-Realizar impressão de forma ordenada, conforme requisito da AC
+- Estruturamos os seguintes passos para a resolução do exercício:
+- Ler o arquivo
+- Iterar por linhas e caracteres
+- Realizar a contagem da quantidade de caracteres e guardar para impressão
+- Realizar impressão de forma ordenada, conforme requisito da AC
 
 Exercício 2
 
-Estruturamos os seguintes passos para a resolução do exercício:
-Ler o arquivo
-Iterar por linhas e palavras
-Comparar cada palavra lida do programa com a lista de palavras reservadas
-Caso a palavra lida do programa esteja na lista de reservadas e não for uma string, ele faz a troca para uppercase.
+- Estruturamos os seguintes passos para a resolução do exercício:
+- Ler o arquivo
+- Iterar por linhas e palavras
+- Comparar cada palavra lida do programa com a lista de palavras reservadas
+- Caso a palavra lida do programa esteja na lista de reservadas e não for uma string, ele faz a troca para uppercase.
